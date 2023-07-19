@@ -26,7 +26,7 @@
 
 ## 安装
 ```shell
-git clone https://github.com/NyaaCaster/Nyaa-Automata.git
+git clone https://github.com/Pretend-Jhaol/Nyaa-Automata.git
 cd Nyaa-Automata
 bash setup-ubuntu.sh
 ```
